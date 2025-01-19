@@ -22,13 +22,16 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 List of some projects worked on.
 
 **Sprocket Central Case Study.**
+
 ![image](Screenshot_3.jpg)
+
 Developed a model to identify the 1000 high valued customers needed by the marketing team.
+
 [Read More](https://sites.google.com/view/edosasportfolio/sprocket-central-data)
 
 **Bellabeat Case Study**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](Screenshot_1.jpg)
 
 Revealed more opportunities for growth of Bellabeat App by analyzing data from consumers’ smart device usage of non-Bellabeat smart devices.
 
