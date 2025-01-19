@@ -11,7 +11,7 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 •Creating detailed data visualizations in RStudio.<br>
 •Development of simple databases using MySQL.<br>
 
-## - ✅ CERTIFICATIONS.**
+# - ✅ CERTIFICATIONS.**
 •	KPMG AU Data Analytics Virtual Experience Program Certification    [July, 2022] <br>
 •	Google Data Analytics Professional Certificate               [May, 2022] <br>
 
