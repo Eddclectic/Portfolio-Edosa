@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Edosa Erhunmwunse 🤓, a detail-oriented data analyst who doubles as a technical operator in the oil and gas sector with 2 years of experience applying analytical and statistical tools and techniques in data collection, maintenance, and data analysis used in exposing trends and resolving anomalies impacting overall oil and gas production. I am skilled in collecting, transforming, and organizing data to give reasonable insights through proficient use of platforms like Excel spreadsheets, SQL, R, and Tableau.<b>
+Hello! I'm Edosa Erhunmwunse 🤓, a detail-oriented data analyst who doubles as a technical operator in the oil and gas sector with 2 years of experience applying analytical and statistical tools and techniques in data collection, maintenance, and data analysis used in exposing trends and resolving anomalies impacting overall oil and gas production. I am skilled in collecting, transforming, and organizing data to give reasonable insights through proficient use of platforms like Excel spreadsheets, SQL, R, and Tableau.<br>
 Certified Data Analyst with practical and theoretical understanding of the entire data analysis process who is ready for opportunities to collaborate and contribute to projects not limited to the oil and gas sector.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
