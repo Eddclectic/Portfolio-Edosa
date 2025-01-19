@@ -31,7 +31,7 @@ Developed a model to identify the 1000 high valued customers needed by the marke
 
 **Bellabeat Case Study**
 
-![image](Screenshot_1.jpg)
+![image](Screenshot_2.jpg)
 
 Revealed more opportunities for growth of Bellabeat App by analyzing data from consumers’ smart device usage of non-Bellabeat smart devices.
 
