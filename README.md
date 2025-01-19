@@ -6,21 +6,20 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## CORE SKILLS AND ABILITIES
-
-* Organize, sort, filter and aggregate data for analysis using SPSS, R and SQL, can also perform basic calculations with functions and formulas.*<br>
-*Use of dashboards in Tableau, Power BI and Excel to present engaging data-driven stories.*<br>
-*Creating detailed data visualizations in RStudio.*<br>
-*Development of simple databases using MySQL.*<br>
+•Organize, sort, filter and aggregate data for analysis using SPSS, R and SQL, can also perform basic calculations with functions and formulas.<br>
+•Use of dashboards in Tableau, Power BI and Excel to present engaging data-driven stories.<br>
+•Creating detailed data visualizations in RStudio.<br>
+•Development of simple databases using MySQL.<br>
 
 ## - ✅ CERTIFICATIONS.**
-*•	KPMG AU Data Analytics Virtual Experience Program Certification    [July, 2022] *<br>
-*•	Google Data Analytics Professional Certificate               [May, 2022] *<br>
+•	KPMG AU Data Analytics Virtual Experience Program Certification    [July, 2022] <br>
+•	Google Data Analytics Professional Certificate               [May, 2022] <br>
 
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*List of some projects worked on.*
+List of some projects worked on.
 
 **Sprocket Central Case Study.**
 ![image](Screenshot_3.jpg)
