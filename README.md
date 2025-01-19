@@ -11,7 +11,7 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 •Creating detailed data visualizations in RStudio.<br>
 •Development of simple databases using MySQL.<br>
 
-# - ✅ CERTIFICATIONS.**
+#### - ✅ CERTIFICATIONS.**
 •	KPMG AU Data Analytics Virtual Experience Program Certification    [July, 2022] <br>
 •	Google Data Analytics Professional Certificate               [May, 2022] <br>
 
@@ -23,16 +23,16 @@ List of some projects worked on.
 
 **Sprocket Central Case Study.**
 ![image](Screenshot_3.jpg)
-
+Developed a model to identify the 1000 high valued customers needed by the marketing team.
 [Read More](https://sites.google.com/view/edosasportfolio/sprocket-central-data)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Bellabeat Case Study**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+Revealed more opportunities for growth of Bellabeat App by analyzing data from consumers’ smart device usage of non-Bellabeat smart devices.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.kaggle.com/code/edosaerhunmwunse/bellabeat-case-study-r)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
