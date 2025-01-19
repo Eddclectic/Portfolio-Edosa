@@ -27,10 +27,7 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 **Sprocket Central Case Study.**
 ![image](Screenshot_3.jpg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://sites.google.com/view/edosasportfolio/sprocket-central-data)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
