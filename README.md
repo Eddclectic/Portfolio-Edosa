@@ -12,7 +12,7 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 *Creating detailed data visualizations in RStudio.*<br>
 *Development of simple databases using MySQL.*<br>
 
-**- ✅ CERTIFICATIONS.**
+## - ✅ CERTIFICATIONS.**
 *•	KPMG AU Data Analytics Virtual Experience Program Certification    [July, 2022] *<br>
 *•	Google Data Analytics Professional Certificate               [May, 2022] *<br>
 
@@ -46,7 +46,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 ## CONTACT DETAILS
 
-*Please contact through any of the medium below!*
+*Please contact me through any of the medium below!*
 <table>
   <tbody>
     <tr>
@@ -65,10 +65,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td>⬇️</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
-    <tr>
-      <td>🌐</td>
-     
-    </tr>
+   
     
   </tbody>
 </table>
