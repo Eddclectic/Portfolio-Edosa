@@ -19,15 +19,13 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 *•	Google Data Analytics Professional Certificate               [May, 2022] *
 
 
-
-
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
 
 **Sprocket Central Case Study.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Screenshot_3.jpg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
