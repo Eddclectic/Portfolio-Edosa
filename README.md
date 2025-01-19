@@ -1,26 +1,27 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Edosa Erhunmwunse 🤓, A detail-oriented data analyst who doubles as a technical operator in the oil and gas sector with 2 years of experience applying analytical and statistical tools and techniques in data collection, maintenance, and data analysis used in exposing trends and resolving anomalies impacting overall oil and gas production. I am skilled in collecting, transforming, and organizing data to give reasonable insights through proficient use of platforms like Excel spreadsheets, SQL, R, and Tableau.//
+Hello! I'm Edosa Erhunmwunse 🤓, a detail-oriented data analyst who doubles as a technical operator in the oil and gas sector with 2 years of experience applying analytical and statistical tools and techniques in data collection, maintenance, and data analysis used in exposing trends and resolving anomalies impacting overall oil and gas production. I am skilled in collecting, transforming, and organizing data to give reasonable insights through proficient use of platforms like Excel spreadsheets, SQL, R, and Tableau.
+
 Certified Data Analyst with practical and theoretical understanding of the entire data analysis process who is ready for opportunities to collaborate and contribute to projects not limited to the oil and gas sector.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## CORE SKILLS AND ABILITIES
 
-* Organize, sort, filter and aggregate data for analysis using SPSS, R and SQL, can also perform basic calculations with functions and formulas.*//
-*Use of dashboards in Tableau, Power BI and Excel to present engaging data-driven stories.*//
-*Creating detailed data visualizations in RStudio.*//
-*Development of simple databases using MySQL.*//
+* Organize, sort, filter and aggregate data for analysis using SPSS, R and SQL, can also perform basic calculations with functions and formulas.*
+*Use of dashboards in Tableau, Power BI and Excel to present engaging data-driven stories.*
+*Creating detailed data visualizations in RStudio.*
+*Development of simple databases using MySQL.*
 
 **- ✅ CERTIFICATIONS.**
-*•	KPMG AU Data Analytics Virtual Experience Program Certification    [July, 2022] *//
-*•	Google Data Analytics Professional Certificate               [May, 2022] *//
+*•	KPMG AU Data Analytics Virtual Experience Program Certification    [July, 2022] *
+*•	Google Data Analytics Professional Certificate               [May, 2022] *
 
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
+*List of some projects worked on.*
 
 **Sprocket Central Case Study.**
 ![image](Screenshot_3.jpg)
@@ -46,20 +47,20 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Please contact through any of the medium below!*
 <table>
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:Edosa.erhun@gmail.com">Edosa.erhun@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>  </td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Eindhoven, Netherlands</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -67,11 +68,8 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+     
     </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
+    
   </tbody>
 </table>
