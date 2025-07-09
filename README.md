@@ -22,6 +22,15 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 
 List of some projects worked on.
 
+**Revenue and Dutch Customer Behavior Analysis of a Retail Store.**
+
+![image](222.jpg)
+
+We observed the maximum percent revenue in quarters Q1 and Q4 where computer category sold the most, expecially on saturdays. 
+
+[Read More](https://github.com/Eddclectic/revenue_dutch)
+
+
 **Sprocket Central Case Study.**
 
 ![image](Screenshot_3.jpg)
@@ -37,14 +46,6 @@ Developed a model to identify the 1000 high valued customers needed by the marke
 Revealed more opportunities for growth of Bellabeat App by analyzing data from consumers’ smart device usage of non-Bellabeat smart devices.
 
 [Read More](https://www.kaggle.com/code/edosaerhunmwunse/bellabeat-case-study-r)
-
-**Revenue and Dutch Customer Behavior Analysis of a Retail Store.**
-
-![image](222.jpg)
-
-We observed the maximum percent revenue in quarters Q1 and Q4 where computer category sold the most, expecially on saturdays. 
-
-[Read More](https://github.com/Eddclectic/revenue_dutch)
 
 
 ## CONTACT DETAILS
