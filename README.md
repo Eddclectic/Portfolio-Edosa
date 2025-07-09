@@ -12,6 +12,7 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 •Development of simple databases using MySQL.<br>
 
 #### - ✅ CERTIFICATIONS.**
+•	Alison Diploma in Data Analytics with Python          [May,2025]. <br>
 •	KPMG AU Data Analytics Virtual Experience Program Certification    [July, 2022] <br>
 •	Google Data Analytics Professional Certificate               [May, 2022] <br>
 
@@ -37,13 +38,13 @@ Revealed more opportunities for growth of Bellabeat App by analyzing data from c
 
 [Read More](https://www.kaggle.com/code/edosaerhunmwunse/bellabeat-case-study-r)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Revenue and Dutch Customer Behavior Analysis of a Retail Store.**
 
 ![image](222.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+We observed the maximum percent revenue in quarters Q1 and Q4 where computer category sold the most, expecially on saturdays. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Read More](https://github.com/Eddclectic/revenue_dutch)
 
 
 ## CONTACT DETAILS
