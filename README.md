@@ -67,7 +67,7 @@ Revealed more opportunities for growth of Bellabeat App by analyzing data from c
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://docs.google.com/document/d/1KwITqL6OlOh6nKCzv6ci_wBFUKG1Jarx/edit?usp=drive_link&ouid=100274566812791371683&rtpof=true&sd=true">Download my CV</a></td>
     </tr>
    
     
