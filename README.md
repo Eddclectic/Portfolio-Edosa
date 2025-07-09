@@ -20,7 +20,7 @@ Certified Data Analyst with practical and theoretical understanding of the entir
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-List of some projects worked on.
+Some projects worked on.
 
 **Revenue and Dutch Customer Behavior Analysis of a Retail Store.**
 
