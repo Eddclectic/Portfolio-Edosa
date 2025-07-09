@@ -39,7 +39,7 @@ Revealed more opportunities for growth of Bellabeat App by analyzing data from c
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](Screenshot_2.jpg)
+![image](222.jpg)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
