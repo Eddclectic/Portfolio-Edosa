@@ -26,9 +26,7 @@ List of some projects worked on.
 
 ![image](222.jpg)
 
-We observed the maximum percent revenue in quarters Q1 and Q4 where computer category sold the most, expecially on saturdays. 
-
-[Read More](https://github.com/Eddclectic/revenue_dutch)
+We observed the maximum percent revenue in quarters Q1 and Q4 where computer category sold the most, expecially on saturdays. [Read More](https://github.com/Eddclectic/revenue_dutch)
 
 
 **Sprocket Central Case Study.**
