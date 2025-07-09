@@ -33,17 +33,13 @@ We observed the maximum percent revenue in quarters Q1 and Q4 where computer cat
 
 ![image](Screenshot_3.jpg)
 
-Developed a model to identify the 1000 high valued customers needed by the marketing team.
-
-[Read More](https://sites.google.com/view/edosasportfolio/sprocket-central-data)
+Developed a model to identify the 1000 high valued customers needed by the marketing team.[Read More](https://sites.google.com/view/edosasportfolio/sprocket-central-data)
 
 **Bellabeat Case Study**
 
 ![image](Screenshot_2.jpg)
 
-Revealed more opportunities for growth of Bellabeat App by analyzing data from consumers’ smart device usage of non-Bellabeat smart devices.
-
-[Read More](https://www.kaggle.com/code/edosaerhunmwunse/bellabeat-case-study-r)
+Revealed more opportunities for growth of Bellabeat App by analyzing data from consumers’ smart device usage of non-Bellabeat smart devices.[Read More](https://www.kaggle.com/code/edosaerhunmwunse/bellabeat-case-study-r)
 
 
 ## CONTACT DETAILS
